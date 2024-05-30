@@ -16,7 +16,8 @@
 <!-- source_link=lib/async_hooks.js -->
 
 We strongly discourage the use of the `async_hooks` API.
-Other APIs that can cover most of its use cases include:
+Other APIs that can cover most of its use cases include:![icon](https://github.com/nodejs/node/assets/107005843/097f2ad6-ef0a-4fce-bf68-d13ca7f9f9e7)
+
 
 * [`AsyncLocalStorage`][] tracks async context
 * [`process.getActiveResourcesInfo()`][] tracks active resources
